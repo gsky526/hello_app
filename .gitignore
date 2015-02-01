@@ -14,3 +14,8 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+
+#ignore everthing   in this directory
+*
+#except this file
+!.gitignore
